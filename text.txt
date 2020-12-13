@@ -5,8 +5,8 @@
 2. npx create-react-app myapp
 3. npx create-react-app components
 
-[reference website]
+[reference website for UI]
 semantic UI / material UI
 
 4.get avatar images
-npm install --save faker
+npm i faker
