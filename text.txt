@@ -10,3 +10,5 @@ semantic UI / material UI
 
 4.get avatar images
 npm i faker
+
+5. npm install --save axios
