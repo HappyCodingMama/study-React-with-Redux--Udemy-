@@ -12,3 +12,8 @@ semantic UI / material UI
 npm i faker
 
 5. npm install --save axios
+
+*console.developers.google.com
+youtube data API
+
+6. npm install axios@0.20.0
