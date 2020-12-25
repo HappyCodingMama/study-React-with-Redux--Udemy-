@@ -71,3 +71,8 @@ youtube data API
 
 * Redux
 1.npm install --save redux react-redux
+
+*JSON placeholder
+
+* Redux & axios
+1.npm install --save redux react-redux axios redux-thunk
