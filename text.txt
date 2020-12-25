@@ -17,3 +17,16 @@ npm i faker
 youtube data API
 
 6. npm install axios@0.20.0
+
+*vercel login
+
+7.npm install -g vercel
+8.vercel login
+9.vercel
+
+*netlify login
+
+10. git add .
+11. git commit -m "ready for deploy"
+12. git remote add origin (git address - SSH)
+13. git push origin master
