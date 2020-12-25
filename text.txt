@@ -1,3 +1,40 @@
+***React snippets
+[rafce]
+import React from 'react'
+
+const $1 = () => {
+  return <div>$0</div>
+}
+
+export default $1
+
+[rce]
+import React, { Component } from 'react'
+
+export class FileName extends Component {
+  render() {
+    return <div>$2</div>
+  }
+}
+
+export default $1
+
+
+imr→	import React from 'react'
+imrd→	import ReactDOM from 'react-dom'
+
+imrs→	import React, { useState } from 'react'
+imrse→	import React, { useState, useEffect } from 'react'
+
+clg→	console.log(object)
+
+nfn→	const functionName = (params) => { }
+exp→	export default moduleName
+redux→	import { connect } from 'react-redux'
+
+
+--------------------------------------------
+
 1. install node JS
 *check nodeJS on Terminal
 -> node -v
@@ -30,3 +67,7 @@ youtube data API
 11. git commit -m "ready for deploy"
 12. git remote add origin (git address - SSH)
 13. git push origin master
+
+
+* Redux
+1.npm install --save redux react-redux
