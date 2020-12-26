@@ -76,3 +76,5 @@ youtube data API
 
 * Redux & axios
 1.npm install --save redux react-redux axios redux-thunk
+
+2.npm install ---save lodash
